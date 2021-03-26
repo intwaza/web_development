@@ -6,12 +6,12 @@ fun main() {
     else if(marks>=80)
         "B"
     else if(marks>=70)
-        "c"
+        "C"
     else if(marks>=60)
-        "d"
+        "D"
     else if(marks>=50)
-        "e"
+        "E"
     else
-        "f"
+        "F"
     println("your grade is: $grade")
 }
